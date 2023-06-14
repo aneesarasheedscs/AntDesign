@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Users/SCS-PC5/Desktop/React%20-25%20-fragment/React-Antd/react-ant/static/css/main.73f9be50.css",
+    "main.js": "/Users/SCS-PC5/Desktop/React%20-25%20-fragment/React-Antd/react-ant/static/js/main.08dbe35b.js",
+    "static/js/787.d2c7368c.chunk.js": "/Users/SCS-PC5/Desktop/React%20-25%20-fragment/React-Antd/react-ant/static/js/787.d2c7368c.chunk.js",
+    "static/media/bg-hero.jpg": "/Users/SCS-PC5/Desktop/React%20-25%20-fragment/React-Antd/react-ant/static/media/bg-hero.2e6d5a35d22cda1a0dd8.jpg",
+    "static/media/bg-works.jpg": "/Users/SCS-PC5/Desktop/React%20-25%20-fragment/React-Antd/react-ant/static/media/bg-works.abd66d06d525eadfd24a.jpg",
+    "static/media/great-support.jpg": "/Users/SCS-PC5/Desktop/React%20-25%20-fragment/React-Antd/react-ant/static/media/great-support.78358118985aa4a3fe35.jpg",
+    "static/media/advanceOptions.jpg": "/Users/SCS-PC5/Desktop/React%20-25%20-fragment/React-Antd/react-ant/static/media/advanceOptions.a9bb2f842f347fa5d8fd.jpg",
+    "static/media/feature.jpg": "/Users/SCS-PC5/Desktop/React%20-25%20-fragment/React-Antd/react-ant/static/media/feature.e59ef661ef0488a798e0.jpg",
+    "static/media/modern.jpg": "/Users/SCS-PC5/Desktop/React%20-25%20-fragment/React-Antd/react-ant/static/media/modern.42c92ae182ffc0086b7a.jpg",
+    "static/media/customiz2.jpg": "/Users/SCS-PC5/Desktop/React%20-25%20-fragment/React-Antd/react-ant/static/media/customiz2.eb6f0ffe0c9df4434607.jpg",
+    "index.html": "/Users/SCS-PC5/Desktop/React%20-25%20-fragment/React-Antd/react-ant/index.html",
+    "main.73f9be50.css.map": "/Users/SCS-PC5/Desktop/React%20-25%20-fragment/React-Antd/react-ant/static/css/main.73f9be50.css.map",
+    "main.08dbe35b.js.map": "/Users/SCS-PC5/Desktop/React%20-25%20-fragment/React-Antd/react-ant/static/js/main.08dbe35b.js.map",
+    "787.d2c7368c.chunk.js.map": "/Users/SCS-PC5/Desktop/React%20-25%20-fragment/React-Antd/react-ant/static/js/787.d2c7368c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73f9be50.css",
+    "static/js/main.08dbe35b.js"
+  ]
+}
